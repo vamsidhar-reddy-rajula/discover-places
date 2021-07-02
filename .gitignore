@@ -4,3 +4,8 @@
 *.pyc
 *.ipynb_checkpoints
 *.DS_store
+configs.py
+four_square_ratings/
+*.json
+*.db
+*.sql
